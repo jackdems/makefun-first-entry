@@ -200,6 +200,8 @@ Your code is on the **Referrals** tab of your profile. Your link is `make.fun/r/
 
 The same verification rules apply to your referrals as to this contest. Real people who sign up and take part count; bots, self-referrals and clusters do not. Share the link where actual builders will find it, and skip the incentive to manufacture signups — it does not survive review.
 
+A useful place to start is the guide you just wrote: put the link where a reader can act on it immediately, at the top and again at the end. People who arrive curious and finish setup are the ones who count; people who click and bounce are not.
+
 ## Mistakes worth avoiding
 
 - **Building before reading the rules.** The bounty page and `RULES.txt` are the contract.
